@@ -1,0 +1,17 @@
+/* === tag Selector === */
+
+p {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+/* === id Selector === */
+
+#list-2 {
+  border: 4px solid green;
+}
+
+/* === class Selector === */
+
+.list-a {
+  background-color: blueviolet;
+}

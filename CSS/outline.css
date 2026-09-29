@@ -1,0 +1,13 @@
+h1 {
+  /* outline-width: 5px;
+  outline-style: dotted;
+  outline-color: blue; */
+
+  outline: 5px solid red;
+  border: 5px solid orange;
+}
+
+input {
+  border: none;
+  outline: none;
+}
