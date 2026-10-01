@@ -1,0 +1,15 @@
+h1 {
+  width: fit-content;
+  background-color: black;
+  color: white;
+
+  /* padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 40px; */
+
+  /* padding: 20px; */
+  /* padding: 20px 40px; */
+  /* padding: 20px 40px 20px; */
+  /* padding: 20px 40px 20px 40px; */
+}

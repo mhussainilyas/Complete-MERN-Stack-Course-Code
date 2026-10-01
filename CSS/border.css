@@ -1,4 +1,14 @@
 /* border: size style color; */
+/* border-top: size style color; */
+/* border-left: size style color; */
+/* border-right: size style color; */
+/* border-bottom: size style color; */
+
+/* border-radius: value; */
+/* border-top-left-radius: value; */
+/* border-top-right-radius: value; */
+/* border-bottom-right-radius: value; */
+/* border-bottom-left-radius: value; */
 
 h1 {
   /* border-width: 8px;
