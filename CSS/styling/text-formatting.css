@@ -1,0 +1,38 @@
+/* text-decoration: line color style thickness; */
+
+h2 {
+  /* color: orange;
+  background-color: black; */
+
+  /* text-align: center; */
+
+  /* text-decoration: underline; */
+  /* text-decoration: underline overline line-through; */
+  /* text-decoration: underline green dotted 10px; */
+
+  /* text-transform: capitalize; */
+
+  /* text-shadow: 5px 5px 10px red; */
+
+  writing-mode: sideways-lr;
+}
+
+#para {
+  width: 400px;
+
+  text-align: justify;
+  text-align-last: center;
+  text-indent: 200px;
+  letter-spacing: 1px;
+  word-spacing: 10px;
+  line-height: 20px;
+}
+
+#para2 {
+  width: 300px;
+  border: 1px solid blue;
+
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
