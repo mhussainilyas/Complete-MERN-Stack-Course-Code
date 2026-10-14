@@ -1,0 +1,19 @@
+#box {
+  width: 300px;
+  padding: 40px;
+  box-sizing: border-box;
+  border: 2px solid blue;
+}
+
+p {
+  word-wrap: break-word;
+  word-break: break-all;
+
+  /* white-space: wrap; */
+  white-space: nowrap;
+  /* white-space: pre; */
+
+  overflow: hidden;
+
+  text-overflow: ellipsis;
+}

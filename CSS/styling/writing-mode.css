@@ -1,0 +1,7 @@
+h1 {
+  /* writing-mode: horizontal-tb; */
+  /* writing-mode: vertical-lr; */
+  /* writing-mode: vertical-rl; */
+  /* writing-mode: sideways-lr; */
+  writing-mode: sideways-rl;
+}
